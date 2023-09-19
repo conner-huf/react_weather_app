@@ -7,8 +7,8 @@ This is the screen on loading the application:
 <br>
 The user can input a city and the application will call the API and populate the weather data into the page.
 ---
-![on_successful_search](https://github.com/conner-huf/react_weather_app/assets/126115012/9473d2ec-2190-4b34-8c8e-61a8b483a05a)
+![on_successful_search](screenshots/on_successful_search.png)
 <br>
 If the user inputs an unrecognized city, the application will display "Location not found".
 ---
-![unsuccessful_search](https://github.com/conner-huf/react_weather_app/assets/126115012/e5b0bb62-fb01-47fc-86fa-37dfcd04d6e6)
+![unsuccessful_search](screenshots/unsuccessful_search.png)
