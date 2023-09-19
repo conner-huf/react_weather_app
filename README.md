@@ -3,7 +3,7 @@
 This project was built using React. I built this project to practice making a UI and interfacing with an API. This application uses the OpenWeatherMap API (https://openweathermap.org/) to search the current weather for a given city.
 This is the screen on loading the application:
 ---
-![on_load](https://github.com/conner-huf/react_weather_app/assets/126115012/c3a6ea9f-bd49-42b3-8352-b9ff47a8c402)
+![on_load](screenshots/on_load.png)
 <br>
 The user can input a city and the application will call the API and populate the weather data into the page.
 ---
